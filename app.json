@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Gurucool",
+    "slug": "mobileapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/gurucool.png",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/gurucool.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.abhishrestha.mobileapp"
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "1797b199-feff-430f-aa37-b953ac35687d"
+      }
+    }
+  }
+}
